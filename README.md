@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brieucvan
 Débutant dans la programmation, je suis ouvert à toutes bonnes remarques me permettant de progresser !
-- 🧑‍💻 Language connu : HTML / CSS 
+- 🧑‍💻 Language connu : HTML / CSS / JS
 
 <!---
 brieucvan/brieucvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
